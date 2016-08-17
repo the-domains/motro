@@ -1,0 +1,28 @@
+name: motro interior design
+favicon: null
+layout_spectrum: 0.23776759672909975
+typography_spectrum: 0.8702804099302739
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.02945796144194901
+  lightness: 0.21325205313041806
+  saturation: 0.7537464499473572
+  rhythmicContrast: 0.9620782223064452
+purpose: []
